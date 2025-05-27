@@ -1,6 +1,5 @@
 # NumPy Program: Column-wise Sorting of a 2D Array
-## NAME : Sanjeev A
-## REG NO:212224230246
+
 ## 🎯 Aim
 To write a **NumPy** program that sorts the elements in each column of a given 2D array in ascending order.
 
